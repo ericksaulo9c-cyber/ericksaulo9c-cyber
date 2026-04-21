@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Erick!
 
-<!--
-**ericksaulo9c-cyber/ericksaulo9c-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desenvolvedor em formação | Apaixonado por tecnologia
 
-Here are some ideas to get you started:
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, em constante evolução na área de programação. Estou focado em construir uma base sólida e desenvolver projetos práticos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tecnologias e conhecimentos
+
+* 🐍 Python
+* 🧠 Lógica de programação
+* 🧩 Programação Orientada a Objetos (POO)
+
+---
+
+## 📚 Atualmente estudando
+
+* Aprimorando Python
+* Conceitos de POO na prática
+* Desenvolvimento de pequenos projetos
+
+---
+
+## 📂 Projetos em destaque
+
+🔹 Em breve mais projetos por aqui...
+🔹 Sempre buscando aprender e aplicar na prática
+
+---
+
+## 🎯 Objetivo
+
+Crescer como desenvolvedor e criar soluções eficientes, bem estruturadas e úteis no mundo real.
+
+---
+
+## 🚀 Sobre mim
+
+💡 Sempre aprendendo
+📈 Evoluindo um pouco todos os dias
+🔥 Focado em me tornar um desenvolvedor completo
+
+---
+
+⭐ Obrigado por visitar meu perfil!
