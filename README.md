@@ -18,7 +18,7 @@ Busco evoluir através de **projetos práticos** e melhorar minhas habilidades t
 
 ---
 
-## 🛠️ Tecnologias
+
 
 ## 🛠️ Tecnologias
 
@@ -30,6 +30,7 @@ Busco evoluir através de **projetos práticos** e melhorar minhas habilidades t
   <img src="https://img.shields.io/badge/Algoritmos-Lógica%20de%20Programação-green?style=for-the-badge" />
   
   <img src="https://img.shields.io/badge/Git-Básico-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  
 </p>
 
 ---
