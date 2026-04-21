@@ -21,7 +21,9 @@ Busco evoluir através de **projetos práticos** e melhorar minhas habilidades t
 ## 🛠️ Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
 ![POO](https://img.shields.io/badge/OOP-Programação%20Orientada%20a%20Objetos-blue?style=for-the-badge)
+
 ![Algoritmos](https://img.shields.io/badge/Algoritmos-Lógica%20de%20Programação-green?style=for-the-badge)
 
 ---
