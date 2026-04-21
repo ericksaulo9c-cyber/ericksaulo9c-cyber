@@ -1,8 +1,8 @@
-#👋 Olá, eu sou o Erick!
+## 👋 Olá, eu sou o Erick!
 
-#🚀 Desenvolvedor em formação
+## 🚀 Desenvolvedor em formação
 
-#Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), focado em aprender programação e evoluir com projetos práticos.
+## Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), focado em aprender programação e evoluir com projetos práticos.
 ---
 
 ## 🧠 O que estou aprendendo
