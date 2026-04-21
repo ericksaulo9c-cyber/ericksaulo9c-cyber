@@ -1,46 +1,56 @@
-# 👋 Olá, eu sou o Erick!
+# 👋 Olá, eu sou Erick!
 
-🚀 Desenvolvedor em formação | Apaixonado por tecnologia
+🚀 **Desenvolvedor em formação | Python**
+🇧🇷 Brasil
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, em constante evolução na área de programação. Estou focado em construir uma base sólida e desenvolver projetos práticos.
+Estou em processo de aprendizado em **programação**, focado em construir uma base sólida com **Python**, lógica e **Programação Orientada a Objetos (POO)**.
+
+Busco evoluir através de **projetos práticos** e melhorar minhas habilidades todos os dias.
 
 ---
 
-## 💻 Tecnologias e conhecimentos
+## 🧠 O que estou aprendendo
 
-* 🐍 Python
+* 🐍 Programação com Python
 * 🧠 Lógica de programação
 * 🧩 Programação Orientada a Objetos (POO)
+* 📂 Desenvolvimento de pequenos projetos
 
 ---
 
-## 📚 Atualmente estudando
+## 🛠️ Tecnologias
 
-* Aprimorando Python
-* Conceitos de POO na prática
-* Desenvolvimento de pequenos projetos
-
----
-
-## 📂 Projetos em destaque
-
-🔹 Em breve mais projetos por aqui...
-🔹 Sempre buscando aprender e aplicar na prática
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![POO](https://img.shields.io/badge/OOP-Programação%20Orientada%20a%20Objetos-blue?style=for-the-badge)
+![Algoritmos](https://img.shields.io/badge/Algoritmos-Lógica%20de%20Programação-green?style=for-the-badge)
 
 ---
 
-## 🎯 Objetivo
+## 📂 Projetos
 
-Crescer como desenvolvedor e criar soluções eficientes, bem estruturadas e úteis no mundo real.
+🔹 Em breve novos projetos
+🔹 Sempre aprendendo e aplicando na prática
+
+---
+
+## 🚀 Objetivo
+
+Evoluir como desenvolvedor e construir soluções simples, eficientes e bem estruturadas.
 
 ---
 
 ## 🚀 Sobre mim
 
 💡 Sempre aprendendo
-📈 Evoluindo um pouco todos os dias
-🔥 Focado em me tornar um desenvolvedor completo
+📈 Evoluindo todos os dias
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+## 🚀 Filosofia
+
+> *"Aprender um pouco todos os dias é o que constrói grandes resultados no futuro."*
+
+---
+
+⭐ Obrigado por visitar meu perfil
+🤝 Aberto a aprender, colaborar e crescer na área
