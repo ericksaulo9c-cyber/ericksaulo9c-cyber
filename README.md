@@ -56,6 +56,3 @@ Evoluir como desenvolvedor e construir soluções simples, eficientes e bem estr
 > *"Aprender um pouco todos os dias é o que constrói grandes resultados no futuro."*
 
 ---
-
-⭐ Obrigado por visitar meu perfil
-🤝 Aberto a aprender, colaborar e crescer na área
