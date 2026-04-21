@@ -1,12 +1,8 @@
-# 👋 Olá, eu sou Erick!
+👋 Olá, eu sou o Erick!
 
-🚀 **Desenvolvedor em formação | Python**
-🇧🇷 Brasil
+🚀 Desenvolvedor em formação
 
-Estou em processo de aprendizado em **programação**, focado em construir uma base sólida com **Python**, lógica e **Programação Orientada a Objetos (POO)**.
-
-Busco evoluir através de **projetos práticos** e melhorar minhas habilidades todos os dias.
-
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), focado em aprender programação e evoluir com projetos práticos.
 ---
 
 ## 🧠 O que estou aprendendo
